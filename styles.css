@@ -12,3 +12,9 @@
 	padding:10px;
 	border-radius:10px;
 }
+ul>li{
+	list-style-type: none;
+}
+ul>li>a{
+	text-decoration-line: none;
+}
